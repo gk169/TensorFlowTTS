@@ -29,7 +29,7 @@ ljspeech
 /Pipfile
 /Pipfile.lock
 /datasets
-/examples/tacotron2/exp/
+/examples/*/exp/
 /temp/
 LibriTTS/
 dataset/
@@ -37,8 +37,5 @@ mfa/
 kss/
 baker/
 libritts/
-dump_baker/
-dump_ljspeech/
-dump_kss/
-dump_libritts/
+dump_*/
 /notebooks/test_saved/
